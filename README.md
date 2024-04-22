@@ -1,6 +1,6 @@
 # Display-face-area-in-m2-on-face
 
-Blender 4.1.1 file with Geometry Nodes modifier showing the area of each face in the face in question.
+Blender 4.1.1 file with Geometry Nodes modifier showing the area of each face on the face in question.
 
 Ensure scale is applied.
 
